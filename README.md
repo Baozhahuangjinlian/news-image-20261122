@@ -1,6 +1,10 @@
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/Baozhahuangjinlian/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/Baozhahuangjinlian/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+
 # Sunday 22 November 2026 — one day of world news, one picture
 
-Entry for the make.fun bounty `news-image-20261122`: sum up 22 November's
+Entry for the [make.fun](https://make.fun) bounty [`news-image-20261122`](https://make.fun/bounty/news-image-20261122): sum up 22 November's
 world news in one image.
 
 The front page carries 50 sourced stories: a giant date masthead, a
